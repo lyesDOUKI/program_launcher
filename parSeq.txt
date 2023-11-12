@@ -1,5 +1,4 @@
 seq
-   cat teste.txt
    ls
         par     
             date
