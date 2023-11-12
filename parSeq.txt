@@ -1,0 +1,3 @@
+seq
+python3 /home/nas-wks01/users/uapv2200555/Bureau/pyt.py
+endseq
