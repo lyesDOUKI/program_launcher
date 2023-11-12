@@ -1,4 +1,4 @@
-seq
+seq 
    ls
         par     
             date
