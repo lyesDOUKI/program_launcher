@@ -13,7 +13,7 @@ struct noeud {
   int val; //1=seq 2=par 3=com
   char ** commande;
   struct noeud * fils;
-  struct noeud *frere;
+  struct noeud *frere; 
 };
 typedef struct noeud *arbre;
 
