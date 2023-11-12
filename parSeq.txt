@@ -1,0 +1,17 @@
+seq
+   cat teste.txt
+   ls
+        par     
+            date
+            ./afficheExo1 4 a
+            ./afficheExo1 5 b
+        endpar
+        seq
+            ls -l
+            ./afficheExo1 4 hello
+        endseq
+        par
+            pwd
+            ls
+        endpar
+endseq
